@@ -1,6 +1,6 @@
 # MySignalsLib
 
-This is a python library for MySignals SW. It makes the interaction with the MySignals Cloud REST API easier for the end user.
+This is a python library for **MySignals SW: eHealth IoT Development platform**. It makes the interaction with the MySignals Cloud REST API easier for the end user.
 
 ## Example Usage:
 
@@ -84,6 +84,8 @@ srv = mysig.sensor_raws()
 
 srv.parts_total
 ```
+
+Reference: http://www.my-signals.com/
 
 
 
